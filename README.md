@@ -1,4 +1,5 @@
-# aula-poo
-Repositório para as aulas de Programação Orientada à Objeto - IFSC/SJ - 01/2022
+# Trabalhando com Github
 
-Aprendendo a usar o GitHub
+Aprendendo a usar o Githube no terminal
+
+- usando o VScode
