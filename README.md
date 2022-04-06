@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Trabalhando com Github
 
 
